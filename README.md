@@ -1,3 +1,16 @@
+# 👋 Hola, I'm Surya Narayan
+
+> **IIIT Naya Raipur (ECE '29)| Web Dev | Building Cool Projects **
+
+---
+
+## 🎯 What I Do
+
+I am a **B.Tech ECE student** at **IIIT Naya Raipur** with interests in **Web development,** **cybersecurity**, and **software engineering**. My work centers on building real-world, production-ready systems with a strong focus on security, scalability, and reliability.
+
+I started coding in Class 10 during COVID and evolved from simple applications to creating secure, scalable systems backed by strong engineering fundamentals. I emphasize system design, performance optimization, and security in everything I build.
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=suryanarayan100406&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=suryanarayan100406&theme=dark&hide_border=false)<br/>
