@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a bootstrapped SaaS product, building everything end-to-end from idea to deployment.<br><br>🌱 I’m currently learning cybersecurity, Node.js, and backend system design to ship secure, scalable software.<br><br>🤝 I’m not looking for collaboration right now, solo founder mode, focused on execution and product depth.<br><br>💬 Ask me about SaaS architecture, API development, security basics, or turning ideas into working products.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/exotic.suryaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryaxnarayan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/exoticsuryaa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryanarayan100406@gmail.com) 
 
