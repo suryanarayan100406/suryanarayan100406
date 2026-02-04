@@ -3,7 +3,7 @@
 > IIIT Naya Raipur (ECE '29)| Web Dev | Building Cool Projects
 
 ---
-# # 🎯 What I Do
+## 🎯 What I Do
 I’m a B.Tech Electronics and Communication Engineering student at IIIT Naya Raipur, exploring web development, cybersecurity, and software engineering. I enjoy building real-world systems that are secure, scalable, and engineered for practical use.<br><br>My coding journey began in Class 10 during COVID, growing from basic projects to robust web and software systems. I focus on clean architecture, system design, and security-first development, backed by strong computer science fundamentals.
 
 
